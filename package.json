@@ -1,0 +1,24 @@
+{
+  "name": "messenger-bot",
+  "version": "1.0.0",
+  "description": "An implementation of facebook's new feature, messenger BOTs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stefuu/messenger-bot.git"
+  },
+  "author": "Stéfano Damiano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stefuu/messenger-bot/issues"
+  },
+  "homepage": "https://github.com/Stefuu/messenger-bot#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.14.0",
+    "response": "^0.18.0"
+  }
+}
